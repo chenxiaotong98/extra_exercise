@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1475773144 source:/home/chenxiaotong/document/just_for_exercise/find_primes/find_prime/find_prime.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1475829443 source:/home/chenxiaotong/document/just_for_exercise/find_prime/find_prime.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+

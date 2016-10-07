@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1475835613 source:/home/chenxiaotong/document/just_for_exercise/high_precision_calculation/high_precision_calculation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
